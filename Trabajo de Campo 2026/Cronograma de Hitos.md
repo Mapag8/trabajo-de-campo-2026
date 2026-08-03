@@ -10,14 +10,14 @@ Cronograma de entregas del Trabajo de Campo. Las fechas aparecen también como n
 
 ## Fechas de entrega
 
-| Fecha | Hito | Estado |
-|-------|------|--------|
-| 2026-08-10 | Entrega Relevamiento General | ⏳ próximo |
-| 2026-08-24 | Entrega Captura de Requisitos | |
-| 2026-09-14 | Modelo de Análisis (CU + Dclase + 1Especif) | |
-| 2026-09-21 | Modelo de Análisis (DTE, Colab. + Especif.) | |
-| 2026-10-05 | Pasando al Diseño (Navegabilidad) | |
-| 2026-10-26 | Coloquio | |
+| Fecha      | Hito                                        | Estado    |
+| ---------- | ------------------------------------------- | --------- |
+| 2026-08-10 | Entrega Relevamiento General                | ⏳ próximo |
+| 2026-08-24 | Entrega Captura de Requisitos               |           |
+| 2026-09-14 | Modelo de Análisis (CU + Dclase + 1Especif) |           |
+| 2026-09-21 | Modelo de Análisis (DTE, Colab. + Especif.) |           |
+| 2026-10-05 | Pasando al Diseño (Navegabilidad)           |           |
+| 2026-10-26 | Coloquio                                    |           |
 
 ## Notas diarias (hitos en el calendario)
 
