@@ -1,0 +1,63 @@
+Introducción y Orígenes
+
+Estudiantes: Nos gustaría ir haciendo varias preguntas para ir armando el informe con el que trabajamos. ¿Les molesta si grabamos?
+Dueño: No, para nada. Tienen que sentarse ahí adentro. Esperen que llamo a la encargada, que está justo en cierre de mes con un montón de facturaciones.
+(Llega la encargada administrativa)
+Administrativa: Hola, buenas tardes.
+Estudiantes: Hola. Queremos tener una idea general para saber un poco de la historia de la empresa, cómo surgió y cómo empezó.
+
+Dueño: Con los años, yo era empleado de una empresa que se dedicaba a lo mismo. Nos quedamos sin trabajo y salimos a la calle por cuenta propia a trabajar; estoy hablando del año 1997. Con el tiempo empezamos a viajar al norte, yo viajaba hasta Jujuy.
+Había un chico que trabajaba en la otra empresa como jefe de taller y me propuso trabajar juntos.*TRABAJAMOS CON PRIORIDAD NACIONAL AL PRINCIPIO, MIENTRAS YO EN EL NORTE VENDIA REPUESTOS*. Así armamos un equipo de trabajo. Luego se sumó la actual encargada, que es mi mano derecha; ella es la responsable de toda la parte administrativa, facturaciones y ventas. Yo me encargo de estar en la calle y manejo la parte financiera, soy "el dueño de la plata", como quien dice.
+Servicios y Proveedores
+
+Estudiantes: Aparte del taller, ¿tienen otras cosas? ¿Venden insumos?
+Dueño: Vendemos todo lo que sea repuestos, filtros y servicios. De autos no, trabajamos exclusivamente con camiones y máquinas viales (equipos pesados). No tenemos gran cantidad de stock propio porque nos manejamos directamente con el stock del proveedor: vendemos, pedimos el repuesto, lo entregamos y lo cobramos.
+
+Estudiantes: ¿A quiénes les compran esos repuestos?
+Dueño: Tenemos proveedores a nivel nacional, principalmente en Córdoba, Buenos Aires y Salta. Compramos directo de fábrica para poder competir en el mercado con los costos. La intención a futuro es empezar a importar.
+Estructura y Organigrama
+*ESTUDIANTES: EN CUANTO A LOS SERVICIOS, ¿USTEDES SE HAN EXTENDIDO POR ACA EN MENDOZA DENTRO Y FUERA DE LA ZONA VERDAD?
+DUEÑO: SI, NOSOTROS EMPEZAMOS CON LOS SERVICIOS GRANDES POR LA ZONA DE SALTA, JUJUY, SANTIAGO DEL ESTERO,ETC. TRAIAMOS MUCHOS EQUIPOS DE ESA ZONA PARA REPARAR ACA. DESPUES DE TANTOS AÑOS YA NO QUERES VIAJAR, EMPEZAMOS A RADICARNOS Y MOVERNOS CON EL MERCADO DE ACA (MENDOZA). AL PRINCIPIO FUE TODO DE AFUERA.*
+
+*ESTA ES NUESTRA UNICA SUCURSAL, PERO PLANEAMOS TENER MAS, TUVIMOS UNA OFICIA EN SANTIAGO DEL ESTERO PERO POR DISTINTOS TEMAS TUVIMOS QUE CERRARLA*
+
+Estudiantes: ¿Cómo se organizan dentro de la empresa?
+Administrativa: Te puedo hacer un organigrama rápido para que se entienda:
+
+    Dueño: Maneja toda la parte de finanzas y actúa como un vendedor capacitado (tiene años de experiencia en máquinas viales y camiones). Es quien visita a los clientes clave o gestiona con las cabezas de otras entidades.
+
+    Administración y Ventas (Mi rol): Me encargo de la administración general y de las ventas, principalmente online (a través de plataformas o WhatsApp). No tengo más gente a cargo porque las herramientas informáticas me ayudan muchísimo a gestionar todo sola. *TODO SE COTIZA A TRAVEZ DEL ESTADO POR PLATAFORMA* *CONTROLA STOCK CON NUMEROS DE PRODUCTOS*
+
+    Jefe de Taller *Y SERVICIO* (Eric): Maneja el grupo del taller, donde tiene tres empleados a cargo, y supervisa todas las reparaciones. Él nos deriva los pedidos técnicos (qué bombas o repuestos hay que cambiar).
+
+Tecnología y Plataformas de Venta
+
+Estudiantes: Le queríamos preguntar sobre las plataformas. Mencionaron que el Estado cotiza por internet...
+Administrativa: Exacto. El gobierno de Mendoza ha definido, para que no haya corrupción ni "amiguismo", que casi todas las municipalidades y dependencias operen a través de plataformas como COMP.AR o LAX.
+Nosotros ingresamos al pedido de cotización y competimos con todas las empresas. A veces somos un poco más caros (20.000 o 30.000 pesos de diferencia), pero los clientes nos eligen igual porque garantizamos un mejor servicio, mayor rapidez de entrega y repuestos de mejor calidad.
+
+Estudiantes: ¿Tienen sistemas informáticos propios en la empresa? Nosotros estudiamos Ingeniería en Sistemas y nos interesa esa parte.
+Administrativa: Todo está digitalizado. Yo vengo de la época de las tarjetas perforadas, pasé por la primera computadora sin Windows y vi toda la evolución. (Incluso estudié tres años en la UTN hace tiempo). Hoy toda la venta se dirige de forma online. Los presupuestos se pasan por WhatsApp o plataformas y todo se maneja en digital (PDF). Trato de no usar papel, salvo con presupuestos muy informales por WhatsApp que prefiero imprimir por si el cliente borra el mensaje y me quedo sin respaldo.
+Al entender cómo funciona la tecnología, si hoy necesito armar un servidor, un dominio o una página web, no pierdo tiempo haciéndolo yo; contrato a un informático, pero sé exactamente qué exigirle para que el sistema funcione rápido y no se cuelgue.
+Procesos del Taller
+
+Estudiantes: Para ir cerrando, ¿cómo es el proceso a nivel técnico cuando entra una unidad al taller?
+Dueño: Siempre que entra un vehículo, ya viene con una falla predeterminada por el cliente. El proceso es:
+
+    Atacamos primero la falla puntual que nos indicó el cliente.
+
+    Revisamos el equipo en general para ver si tiene otras falencias.
+
+    Llamamos al cliente o lo invitamos al taller para mostrarle el equipo desarmado y explicarle cuál es el problema.
+
+    Se arma un presupuesto detallado.
+
+    No se hace nada sin la aprobación del cliente. Esa es la regla de oro. Si el cliente dice que sí, recién ahí avanzamos.
+*TODO ESTO SE MANEJA SIN LAS PLATAFORMAS, ESAS SON PARA TRABAJAR CON EMPRESAS DEL ESTADO. ESTOS PROCESOS SON PARA TRABAJAR CON EMPRESAS PRIVADAS. CON LAS PLATAFORMAS ES:
+	INGRESA EL VEHICULO CON UNA FALLA PREDETERMINADA.
+	SE EVALUA EL RESTO DE FALENCIAS, SE LE PASA EL DETALLE A LA ADMINISTRACION CON PRECIOS DE REPARACIONES INCLUIDOS.
+	SE LEVANTA EN LA PLATAFORMA QUE REPARACIONES HACER.
+	EL CLIENTE DECIDE SI SE HACE O NO LA REPARACION.*
+
+Estudiantes: ¡Perfecto! Quedó clarísimo el organigrama y los procesos. Tenemos mucha información para procesar y armar el esqueleto del sistema. Les entregaremos una copia del informe a mediados de agosto para que vean el trabajo.
+Dueño / Administrativa: Ningún problema, cualquier dato adicional que necesiten para las planillas, nos avisan y se los pasamos.
