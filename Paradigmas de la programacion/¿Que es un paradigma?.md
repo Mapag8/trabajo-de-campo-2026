@@ -1,0 +1,1 @@
+Es todo aquel modelo, patron o ejemplo que debe seguirse 
